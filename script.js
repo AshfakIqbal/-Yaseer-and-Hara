@@ -8,7 +8,7 @@
   const COUPLE_NAME = "Muhammed Yaseer & Fathima Hara";
   const EVENT_TITLE = "Muhammed Yaseer & Fathima Hara — Wedding Ceremony";
   const EVENT_LOCATION = "Meera Maccam Masjid Hall, 2 Wariyapola Sri Sumangala Mawatha, Kandy, Sri Lanka";
-  const EVENT_DESC = "Wedding Ceremony of Muhammed Yaseer (Son of Hassan Nisthar) and Fathima Hara (Daughter of Muhammad Faizal) at Meera Maccam Masjid Hall, Kandy.";
+  const EVENT_DESC = "Wedding Ceremony of Muhammed Yaseer (Son of Hassan Nisthar) and Fathima Hara (Daughter of Muhammad Faizer) at Meera Maccam Masjid Hall, Kandy.";
 
   /* ========================================================
      DOM ELEMENTS
